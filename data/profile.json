@@ -1,6 +1,6 @@
 {
   "name": "Alexandre A Kawakita de Souza",
-  "photo": "https://raw.githubusercontent.com/AAkwk/DIO-JavaScript-Developer/c703a221e3296794247f2fb253a7e800a8c67334/10-Pagina_de_Portfolio_Profissional/assets/img/foto.jpeg",
+  "photo": "https://avatars.githubusercontent.com/u/143350755?v=4",
   "job": "Eng.Mecatrônico",
   "location": "Paranaíba - MS",
   "phone": "(31) 99104-3769",
@@ -12,23 +12,23 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Python",
+        "logo": "https://github.com/AAkwk/js-developer-portfolio/blob/main/data/imgs/python.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "mysql",
+        "logo": "https://github.com/AAkwk/js-developer-portfolio/blob/main/data/imgs/mysql.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "html",
+        "logo": "https://github.com/AAkwk/js-developer-portfolio/blob/main/data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "js",
+        "logo": "https://github.com/AAkwk/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
-        "name": "Postgresql",
+        "name": "vscode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],

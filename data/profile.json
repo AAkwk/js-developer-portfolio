@@ -33,46 +33,45 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Colaboração em equipe",
+      "Aprendizado contínuo",
+      "Orientação e resultado",
+      "Adaptabilidade técnica",
+      "Raciocínio lógico-análitico"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (pré-intermediário)"
+    
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desenvolvimento de API com Flask",
+      "url": "https://github.com/AAkwk/Desenvolvimento_de_API_com_Flask.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "DIO JavaScript Developer",
+      "url": "https://github.com/AAkwk/DIO-JavaScript-Developer.git",
+      "github": true
+    },
+    {
+      "name": "Criando um Sistema Bancario com Python",
+      "url": "https://github.com/AAkwk/Criando_um_Sistema_Bancario_com_Python_V3",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estagiário de Engenharia / P2CRANE",
+      "period": "maio/2021 - setembro/2021",
+      "description": "Desenvolvi projetos elétricos inovadores para automação, implementando sistemas de manutenção preditiva e gestão estratégica de componentes. Através de análises técnicas e otimização de processos, assegurei conformidade com padrões de excelência e impulsionei ganhos de eficiência operacional."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Estagiário de TI/ Prefeitura Municipal de Ouro Branco",
+      "period": "setembro/2021 - novembro/2021",
+      "description": "Atuei na manutenção da infraestrutura de TI do setor hospitalar, realizando configuração e suporte a computadores, impressoras e rede interna. Executei atendimentos remotos e monitoramento contínuo para garantir a disponibilidade e eficiência dos sistemas críticos do ambiente hospitalar."
     }
   ]
 }
